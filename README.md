@@ -1,8 +1,10 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 Demo available at:
-www.ryanperera.github.io/shopifychallenge
+
+https://ryanperera.github.io/shopifychallenge/
 
 ## Available Scripts
 
